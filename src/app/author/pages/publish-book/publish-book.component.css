@@ -1,0 +1,62 @@
+h2 {
+  text-align: center;
+  margin-top: 20px ;
+  margin-bottom: 20px;
+  color: black;
+}
+
+form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #e04e0b;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.book-detail-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.categories-selection {
+  opacity: 0.75;
+  font-size: 0.75em;
+  line-height: 1;
+}
+
+.form-group {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn-secondary{
+  background-color: #3E2723;
+  border: none;
+}
+
+.labelFile {
+  margin-top: 20px;
+}
+
+.publish-button {
+  margin-top: 20px;
+  width: auto;
+  margin: 0;
+  margin-left: 325px;
+  background-color: orangered;
+  color: white;
+}

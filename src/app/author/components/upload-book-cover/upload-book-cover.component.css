@@ -1,0 +1,18 @@
+.upload-button {
+  background-color: orangered;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cover-image {
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+

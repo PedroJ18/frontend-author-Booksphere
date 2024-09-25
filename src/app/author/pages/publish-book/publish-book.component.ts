@@ -27,7 +27,6 @@ export class PublishBookComponent {
 
   //Constructor, inyectamos los servicios BooksService(acceder a funciones del servicio books) y Router(acceder a otras páginas)
   constructor(private booksService: BooksService, private router: Router) {
-
   }
 
   //Método para seleccionar formato del libro (físico o digital)

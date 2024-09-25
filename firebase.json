@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/Frontend-booksphere/browser",
+    "public": "dist/frontend-booksphere/browser",
     "ignore": [
       "firebase.json",
       "**/.*",

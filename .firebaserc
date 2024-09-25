@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "booksphere-430ff"
-  }
+    "default": "frontend-author-booksphere",
+    "Pedro Nanfuñay": "frontend-author-booksphere"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
